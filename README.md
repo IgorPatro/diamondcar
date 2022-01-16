@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://diamondcarspa.pl">
-    <img alt="Resteurant logo" src="https://diamondcarspa.pl/wp-content/uploads/2021/03/2-1024x1024.png" width="60" />
+    <img alt="Resteurant logo" src="https://diamondcarspa.pl/wp-content/uploads/2021/03/2-1024x1024.png" width="150" />
   </a>
 </p>
 <h1 align="center">
