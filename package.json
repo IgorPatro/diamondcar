@@ -1,14 +1,14 @@
 {
-  "name": "casadituzza",
-  "version": "0.0.2",
+  "name": "diamondcar",
+  "version": "0.0.1",
   "private": true,
-  "description": "casadituzza",
+  "description": "diamondcar",
   "author": "Igor Patro",
   "keywords": [
     "gatsby"
   ],
   "scripts": {
-    "develop": "gatsby develop",
+    "dev": "gatsby develop",
     "build": "gatsby build",
     "serve": "gatsby serve",
     "clean": "gatsby clean",

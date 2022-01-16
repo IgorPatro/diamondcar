@@ -1,7 +1,7 @@
 {
-  "name": "casadituzza-api",
+  "name": "diamondcar-api",
   "version": "1.0.0",
-  "description": "API for casadituzza",
+  "description": "API for diamondcar",
   "license": "MIT",
   "main": "index.js",
   "author": "Igor Patro",
