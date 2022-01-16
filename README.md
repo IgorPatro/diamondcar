@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://www.casadituzza.pl">
-    <img alt="Resteurant logo" src="https://restaumatic-production.imgix.net/uploads/restaurants/38136/logo/1604475975.png?auto=compress&crop=focalpoint&fit=clip&h=500&w=500" width="60" />
+  <a href="https://diamondcarspa.pl">
+    <img alt="Resteurant logo" src="https://diamondcarspa.pl/wp-content/uploads/2021/03/2-1024x1024.png" width="60" />
   </a>
 </p>
 <h1 align="center">
-  Casa di Tuzza
+  DIAMOND CAR
 </h1>
 
 ## Description
 
-This is repo of resteurant placed in Warsow created with Gatsby. Webpage is fully automatic and allows customers to order products. Payments will be probably handled with p24 and orders will be stored in IzzyRest POS.
+This is repo of auto spa created with Gatsby. Webpage is fully automatic and allows customers to watch theirs transactions history.
