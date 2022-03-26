@@ -5,7 +5,7 @@
 ## Status: ````Cancaled````
 
 ## Description
-Website for car spa
+Website for car repair shop
 
 ## Technologies
 - Gatsby
