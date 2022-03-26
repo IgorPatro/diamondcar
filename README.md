@@ -1,12 +1,39 @@
-<p align="center">
-  <a href="https://diamondcarspa.pl">
-    <img alt="Resteurant logo" src="https://diamondcarspa.pl/wp-content/uploads/2021/03/2-1024x1024.png" width="60" />
-  </a>
-</p>
-<h1 align="center">
-  DIAMOND CAR
-</h1>
+<img alt="Diamond Car Logo" src="https://diamondcarspa.pl/assetsDevEnd/images/bez-nazwy-1-93x96.png" width="150" />
+
+# Diamond Car
+
+## Status: ````Cancaled````
 
 ## Description
+Website for car spa
 
-This is repo of auto spa created with Gatsby. Webpage is fully automatic and allows customers to watch theirs transactions history.
+## Technologies
+- Gatsby
+- styled-components
+- TypeScript
+
+## Setup 
+```bash
+## Setup and run app
+- run 'yarn'
+- create .env file
+- go to '/src/api'
+- run 'yarn'
+- go to root folder
+- run 'yarn dev'
+- run 'yarn api-dev'
+
+## Available commands
+- dev # developing site
+- build # production build
+- serve # serving production build
+- clean # cleaning cache
+- lint # linting code
+- type-check # ts check
+- format # prettier code formating
+- api-dev # developing API
+- api-build # production build for API
+- api-start # start production build API
+```
+
+
